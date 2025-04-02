@@ -30,7 +30,7 @@ The backend dynamically generates audio output of the user's text using the pytt
 The speech's speed, volume, and tone are adjusted based on the detected emotion for a more natural and context-aware response.
 
 Project Structure
-
+```
 project-directory/
 ├── app.py                    # Backend (Flask application)
 ├── templates/
@@ -40,7 +40,7 @@ project-directory/
 │   ├── script.js             # JavaScript for interactivity
 ├── README.md                 # Documentation
 ├── requirements.txt          # Python dependencies
-
+```
 Technologies Used
 
 Frontend:
